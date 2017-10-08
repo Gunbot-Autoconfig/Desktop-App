@@ -12,4 +12,4 @@ https://gunbot-configurator.herokuapp.com
 https://gist.github.com/GuilhermeMedeiros/eb9f0f8b4161cdb87d5fac822447ab6c
 
 ### FAQ
-- Todo
+- Todo.
