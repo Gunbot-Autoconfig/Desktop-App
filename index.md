@@ -1,5 +1,11 @@
 # Gunbot Autoconfig
 > Automatic pair selection for Gunbot > v4.x
+> Updater tool for config.js 
+> 5 Trading profiles
+> Optional: launcher for 1-pair instances
+
+
+
 https://gunbot-configurator.herokuapp.com
 
 ### How it works
