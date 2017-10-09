@@ -8,9 +8,9 @@
 
 > **Trading API key stored local only**
 
-> **Optional launcher for fast single pair Gunbot instances**
+> **Optional PM2 launcher for fast single pair Gunbot instances**
 
-**[Join the Telegram group to request your invite](https://gunbot-configurator.herokuapp.com)**
+**[Join the Telegram group to request your invite](https://link.com)**
 
 
 
@@ -72,12 +72,12 @@ Gunbot Autoconfig provides a web interface to setup your gunbot config file and 
 
 
 
-### **Launcher to automatically start each pair in a new Gunbot instance**
+### **PM2 Launcher to automatically start each pair in a new Gunbot instance**
 
 ![launcher gif](https://user-images.githubusercontent.com/2372008/31355649-7cec3684-ad3b-11e7-8784-95d85ac39e19.gif)
 *actual launcher speed*
 
-Laucher script for PM2 to automatically launch Gunbot instances for each pair in your config. For Linux only.
+PM2 Launcher script for PM2 to automatically launch Gunbot instances for each pair in your config. For Linux only.
 
 - Speeds up cycling rate to about 1s per pair
 - Saves Gunbot logs for all pairs
@@ -93,7 +93,7 @@ Laucher script for PM2 to automatically launch Gunbot instances for each pair in
 1. Create a setup for pair filtering and your Gunbot settings
 1. Preview your setup and start it
 1. Install the updater, enter login data and trading API key
-1. *Optional: install launcher script*
+1. *Optional: install PM2 launcher*
 1. Start running Gunbot or start the launcher
 
 
@@ -101,6 +101,7 @@ Laucher script for PM2 to automatically launch Gunbot instances for each pair in
 
 ## **Downloads & instructions**
 Installation instructions for the updater and launcher are provided at GitHub. 
+
 Dashboard URL: [https://gunbot-configurator.herokuapp.com](https://gunbot-configurator.herokuapp.com)
 
 
