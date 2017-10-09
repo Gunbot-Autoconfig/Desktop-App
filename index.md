@@ -1,4 +1,4 @@
-# *Gunbot Autoconfig*
+# **Gunbot Autoconfig**
 
 > Automatic Bittrex pair selection for Gunbot > v4.
 
@@ -10,18 +10,20 @@
 
 > Optional: launcher for single pair instances
 
-[dashboard url](https://gunbot-configurator.herokuapp.com)
+[Join the Telegram group](https://gunbot-configurator.herokuapp.com)
+
 
 
 ## **How it works**
 Gunbot Autoconfig provides a web interface to setup your gunbot config file and automatically select pairs filtered by Tradingview ratings, volume and volatility. This config file is synced with your Gunbot machine with a multiplatform updater tool. 
 
 
+
 ### **Settings for pair filtering & bag handling**
 
 ![setup image](https://user-images.githubusercontent.com/2372008/31356083-f43a7042-ad3c-11e7-8494-0c971ad59e49.png)
 
-Filtering options for:
+**Filtering options for:**
 > Max. number of trading pairs
 
 > Minimum BTC volume 
@@ -33,6 +35,7 @@ Filtering options for:
 > Customizable buy / sell options for bags.
 
 
+
 ### **JSON config editor with trading profiles**
 
 ![json editor gif](https://user-images.githubusercontent.com/2372008/31355641-72952fba-ad3b-11e7-855e-849b9c6b53bd.gif)
@@ -40,6 +43,7 @@ Filtering options for:
 > Easy to use JSON editor for all Gunbot settings
 
 > Override strategy settings with profiles for each TradingView rating
+
 
 
 ### **Dashboard for starting setups and monitoring logs**
@@ -51,7 +55,8 @@ Filtering options for:
 
 > Logviewer for config changes
 
->  Order overview`<addr>` 
+>  Order overview
+
 
 
 ### **Multiplatform updater app for Gunbot config file**
@@ -59,6 +64,7 @@ Filtering options for:
 > Updater works on Windows, Linux and MacOS
 
 > Bittrex API key for trading is saved on local machine only
+
 
 
 ### **Launcher to automatically start each pair in a new Gunbot instance**
@@ -71,6 +77,8 @@ Laucher script for PM2 to automatically launch Gunbot instances for each pair in
 - Saves Gunbot logs for all pairs
 - Automatically reloads Gunbot settings when config file is updated
 
+
+
 ## **Getting started**
 1. Join the Telegram group and request an invite
 1. Create account
@@ -81,12 +89,20 @@ Laucher script for PM2 to automatically launch Gunbot instances for each pair in
 1. Optional: install launcher script
 1. Start running Gunbot or start the launcher
 
+
+
 ## **Downloads & instructions**
+
+
 
 ## **Updater**
 
+
+
 ## **Launcher**
 [launcher on gitbhub](https://gist.github.com/GuilhermeMedeiros/eb9f0f8b4161cdb87d5fac822447ab6c)
+
+
 
 ## **FAQ**
 - Todo
