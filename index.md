@@ -10,7 +10,7 @@
 
 > *Optional: launcher for single pair Gunbot instances*
 
-####[Join the Telegram group](https://gunbot-configurator.herokuapp.com)
+[Join the Telegram group](https://gunbot-configurator.herokuapp.com)
 
 
 
@@ -88,11 +88,11 @@ Laucher script for PM2 to automatically launch Gunbot instances for each pair in
 
 ## **Getting started**
 1. [Join the Telegram group](https://link.com) and request an invite
-1. [Create account](https://gunbot-configurator.herokuapp.com/)
+1. [Create your account](https://gunbot-configurator.herokuapp.com/)
 1. Enter read only API key to retrieve Bittrex data
-1. Create setup for pair filtering and your Gunbot settings
+1. Create a setup for pair filtering and your Gunbot settings
 1. Preview your setup and start it
-1. Install Updater, enter login data and trading API key
+1. Install the updater, enter login data and trading API key
 1. *Optional: install launcher script*
 1. Start running Gunbot or start the launcher
 
