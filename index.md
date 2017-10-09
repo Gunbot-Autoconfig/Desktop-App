@@ -1,9 +1,9 @@
 # Gunbot Autoconfig
-`Automatic Bittrex pair selection for Gunbot > v4.`
-`Updater tool for config.js `
-`Use up to 5 trading profiles`
-`Trading API key stays on your computer`
-`Optional: launcher for single pair instances`
+`Automatic Bittrex pair selection for Gunbot > v4.
+Updater tool for config.js 
+Use up to 5 trading profiles
+Trading API key stays on your computer
+Optional: launcher for single pair instances`
 
 [dashboard url](https://gunbot-configurator.herokuapp.com)
 
