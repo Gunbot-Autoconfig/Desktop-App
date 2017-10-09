@@ -1,1 +1,13 @@
 theme: jekyll-theme-cayman
+
+#Site settings
+title: Gunbot-Autoconfig
+description: Automatic pair selection for Gunbot.
+url: https://gunbot-configurator.herokuapp.com/login
+
+
+
+
+
+
+
