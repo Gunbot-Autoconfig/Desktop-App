@@ -13,7 +13,7 @@ Gunbot Autoconfig provides a web interface to setup your gunbot config file and 
 
 ### Settings for pair filtering & bag handling
 
-![setup image](https://user-images.githubusercontent.com/2372008/31351972-5a976b70-ad2d-11e7-984a-fab9e155fdbc.gif)
+![setup image](https://user-images.githubusercontent.com/2372008/31356083-f43a7042-ad3c-11e7-8494-0c971ad59e49.png)
 
 
 Filtering options for:
