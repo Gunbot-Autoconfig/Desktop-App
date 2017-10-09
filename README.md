@@ -1,12 +1,12 @@
 # **Gunbot Autoconfig**
 
-> Automatic Bittrex pair selection for Gunbot > v4.
+> **Automatic Bittrex pair selection for Gunbot > v4.**
 
-> Updater tool for Gunbot config.js  
+> **Updater tool for Gunbot config.js**
 
-> Use up to 5 trading profiles
+> **Use up to 5 trading profiles**
 
-> Trading API key stored local only
+> **Trading API key stored local only**
 
 > **Optional launcher for fast single pair Gunbot instances**
 
