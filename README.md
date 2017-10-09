@@ -88,7 +88,7 @@ Laucher script for PM2 to automatically launch Gunbot instances for each pair in
 
 ## **Getting started**
 1. [Join the Telegram group](https://link.com) and request an invite
-1. [Create your account](https://gunbot-configurator.herokuapp.com/)
+1. [Create your free BETA account](https://gunbot-configurator.herokuapp.com/)
 1. Enter read only API key to retrieve Bittrex data
 1. Create a setup for pair filtering and your Gunbot settings
 1. Preview your setup and start it
