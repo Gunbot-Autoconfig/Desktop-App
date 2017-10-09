@@ -10,7 +10,7 @@
 
 > **Optional launcher for fast single pair Gunbot instances**
 
-[Join the Telegram group](https://gunbot-configurator.herokuapp.com)
+**[Join the Telegram group to request your invite](https://gunbot-configurator.herokuapp.com)**
 
 
 
