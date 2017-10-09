@@ -5,16 +5,14 @@
 - Trading API key stays on your computer
 - Optional: launcher for single pair instances
 
+[dashboard url](https://gunbot-configurator.herokuapp.com)
 
-https://gunbot-configurator.herokuapp.com
+## **How it works**
+Gunbot Autoconfig provides a web interface to setup your gunbot config file and automatically select pairs filtered by Tradingview ratings, volume and volatility. This config file is synced with your Gunbot machine with a multiplatform updater tool. 
 
-## How it works
-Gunbot Autoconfig provides a web interface to setup your gunbot config file and automatically select pairs based on filters for Tradingview ratings, volume and volatility. This config file is synced with your Gunbot machine with the included updater tool. 
-
-### Settings for pair filtering & bag handling
+### **Settings for pair filtering & bag handling**
 
 ![setup image](https://user-images.githubusercontent.com/2372008/31356083-f43a7042-ad3c-11e7-8494-0c971ad59e49.png)
-
 
 Filtering options for:
 - Max. number of trading pairs
@@ -24,36 +22,29 @@ Filtering options for:
 
 Customizable buy / sell options for bags.
 
-
-
-
-### JSON config editor with trading profiles
+### **JSON config editor with trading profiles**
 
 ![json editor gif](https://user-images.githubusercontent.com/2372008/31355641-72952fba-ad3b-11e7-855e-849b9c6b53bd.gif)
-
 
 - Easy to use JSON editor for all Gunbot settings
 - Override strategy settings with profiles for each TradingView rating
 
-
-### Dashboard for starting setups and monitoring logs
+### **Dashboard for starting setups and monitoring logs**
 
 ![dashboard image](https://user-images.githubusercontent.com/2372008/31355630-6ac8b20c-ad3b-11e7-8038-160b75e47349.png)
-
 
 - Config preview
 - Logviewer for config changes
 - Order overview
 
-### Multiplatform updater app for Gunbot config file
+### **Multiplatform updater app for Gunbot config file**
 
 - Updater works on Windows, Linux and MacOS
 - Bittrex API key for trading is saved on local machine only
 
-### Launcher to automatically start each pair in a new Gunbot instance 
+### **Launcher to automatically start each pair in a new Gunbot instance**
 
 ![launcher gif](https://user-images.githubusercontent.com/2372008/31355649-7cec3684-ad3b-11e7-8784-95d85ac39e19.gif)
-
 
 Laucher script for PM2 to automatically launch Gunbot instances for each pair in your config. For Linux only.
 
@@ -61,24 +52,22 @@ Laucher script for PM2 to automatically launch Gunbot instances for each pair in
 - Saves Gunbot logs for all pairs
 - Automatically reloads Gunbot settings when config file is updated
 
+## **Getting started**
+1. Join the Telegram group and request an invite
+1. Create account
+1. Enter read only API key to retrieve Bittrex data
+1. Create setup for pair filtering & Gunbot settings
+1. Preview setup and start it
+1. Install Updater & enter login data and trading API key
+1. Optional: install launcher script
+1. Start running Gunbot or start the launcher
 
+## **Downloads & instructions**
 
-## Getting started
-- Request an invite
-- Create account
-- Enter read only API key to retrieve Bittrex data
-- Create setup for pair filtering & Gunbot settings
-- Preview setup and start it
-- Install Updater & enter login data and trading API key
-- Optional: install launcher script
-- Start running Gunbot or start the launcher
+## **Updater**
 
-## Downloads & installation instructions
+## **Launcher**
+[launcher on gitbhub](https://gist.github.com/GuilhermeMedeiros/eb9f0f8b4161cdb87d5fac822447ab6c)
 
-## Updater
-
-## Launcher
-https://gist.github.com/GuilhermeMedeiros/eb9f0f8b4161cdb87d5fac822447ab6c
-
-### FAQ
+## **FAQ**
 - Todo
