@@ -19,6 +19,7 @@ Gunbot Autoconfig provides a web interface to setup your gunbot config file and 
 
 
 
+
 ### **Settings for pair filtering & bag handling**
 
 ![setup image](https://user-images.githubusercontent.com/2372008/31356083-f43a7042-ad3c-11e7-8494-0c971ad59e49.png)
@@ -36,6 +37,7 @@ Gunbot Autoconfig provides a web interface to setup your gunbot config file and 
 
 
 
+
 ### **JSON config editor with trading profiles**
 
 ![json editor gif](https://user-images.githubusercontent.com/2372008/31355641-72952fba-ad3b-11e7-855e-849b9c6b53bd.gif)
@@ -43,6 +45,7 @@ Gunbot Autoconfig provides a web interface to setup your gunbot config file and 
 > Easy to use JSON editor for all Gunbot settings
 
 > Override strategy settings with profiles for each TradingView rating
+
 
 
 
@@ -59,11 +62,13 @@ Gunbot Autoconfig provides a web interface to setup your gunbot config file and 
 
 
 
+
 ### **Multiplatform updater app for Gunbot config file**
 
 > Updater works on Windows, Linux and MacOS
 
 > Bittrex API key for trading is saved on local machine only
+
 
 
 
@@ -80,6 +85,7 @@ Laucher script for PM2 to automatically launch Gunbot instances for each pair in
 
 
 
+
 ## **Getting started**
 1. Join the Telegram group and request an invite
 1. Create account
@@ -92,7 +98,9 @@ Laucher script for PM2 to automatically launch Gunbot instances for each pair in
 
 
 
+
 ## **Downloads & instructions**
+
 
 
 
@@ -100,8 +108,10 @@ Laucher script for PM2 to automatically launch Gunbot instances for each pair in
 
 
 
+
 ## **Launcher**
 [launcher on gitbhub](https://gist.github.com/GuilhermeMedeiros/eb9f0f8b4161cdb87d5fac822447ab6c)
+
 
 
 
