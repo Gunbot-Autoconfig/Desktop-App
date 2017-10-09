@@ -38,7 +38,7 @@ Customizable buy / sell options for bags.
 
 ### Dashboard for starting setups and monitoring logs
 
-![dashboard gif](https://user-images.githubusercontent.com/2372008/31355649-7cec3684-ad3b-11e7-8784-95d85ac39e19.gif)
+![dashboard image](https://user-images.githubusercontent.com/2372008/31355630-6ac8b20c-ad3b-11e7-8038-160b75e47349.png)
 
 
 - Config preview
