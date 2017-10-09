@@ -8,7 +8,7 @@
 
 > Trading API key stored local only
 
-> *Optional: launcher for single pair Gunbot instances*
+> **Optional launcher for fast single pair Gunbot instances**
 
 [Join the Telegram group](https://gunbot-configurator.herokuapp.com)
 
@@ -101,6 +101,7 @@ Laucher script for PM2 to automatically launch Gunbot instances for each pair in
 
 ## **Downloads & instructions**
 Installation instructions for the updater and launcher are provided at GitHub. 
+Dashboard URL: [https://gunbot-configurator.herokuapp.com](https://gunbot-configurator.herokuapp.com)
 
 
 
