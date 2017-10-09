@@ -1,9 +1,9 @@
 # Gunbot Autoconfig
-- Automatic Bittrex pair selection for Gunbot > v4.
-- Updater tool for config.js 
-- Use up to 5 trading profiles
-- Trading API key stays on your computer
-- Optional: launcher for single pair instances
+`Automatic Bittrex pair selection for Gunbot > v4.`
+`Updater tool for config.js `
+`Use up to 5 trading profiles`
+`Trading API key stays on your computer`
+`Optional: launcher for single pair instances`
 
 [dashboard url](https://gunbot-configurator.herokuapp.com)
 
@@ -32,10 +32,11 @@ Customizable buy / sell options for bags.
 ### **Dashboard for starting setups and monitoring logs**
 
 ![dashboard image](https://user-images.githubusercontent.com/2372008/31355630-6ac8b20c-ad3b-11e7-8038-160b75e47349.png)
+![logs image](https://user-images.githubusercontent.com/2372008/31355618-5b3692e6-ad3b-11e7-8450-a03a9016f7b4.png
 
-- Config preview
+`<addr>` - Config preview
 - Logviewer for config changes
-- Order overview
+- Order overview`<addr>` 
 
 ### **Multiplatform updater app for Gunbot config file**
 
@@ -45,6 +46,8 @@ Customizable buy / sell options for bags.
 ### **Launcher to automatically start each pair in a new Gunbot instance**
 
 ![launcher gif](https://user-images.githubusercontent.com/2372008/31355649-7cec3684-ad3b-11e7-8784-95d85ac39e19.gif)
+
+
 
 Laucher script for PM2 to automatically launch Gunbot instances for each pair in your config. For Linux only.
 
