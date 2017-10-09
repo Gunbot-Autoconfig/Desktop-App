@@ -2,15 +2,15 @@
 
 > Automatic Bittrex pair selection for Gunbot > v4.
 
-> Updater tool for config.js  
+> Updater tool for Gunbot config.js  
 
 > Use up to 5 trading profiles
 
-> Trading API key stays on your computer
+> Trading API key stored local only
 
-> Optional: launcher for single pair instances
+> *Optional: launcher for single pair Gunbot instances*
 
-[Join the Telegram group](https://gunbot-configurator.herokuapp.com)
+####[Join the Telegram group](https://gunbot-configurator.herokuapp.com)
 
 
 
@@ -29,7 +29,7 @@ Gunbot Autoconfig provides a web interface to setup your gunbot config file and 
 
 > Minimum BTC volume 
 
-> TradingView ratings: https://www.tradingview.com/markets/cryptocurrencies/quotes-bitcoin/
+> TradingView [ratings](https://www.tradingview.com/markets/cryptocurrencies/quotes-bitcoin/)
 
 > Volatility
 
@@ -100,17 +100,17 @@ Laucher script for PM2 to automatically launch Gunbot instances for each pair in
 
 
 ## **Downloads & instructions**
+Installation instructions for the updater and launcher are provided at GitHub. 
 
 
 
-
-## **Updater**
-
-
+### **Updater**
+[Updater on GitHub](https://github.com/Gunbot-Autoconfig/Gunbot-Autoconfig/releases)
 
 
-## **Launcher**
-[launcher on gitbhub](https://gist.github.com/GuilhermeMedeiros/eb9f0f8b4161cdb87d5fac822447ab6c)
+
+### **Launcher**
+[Launcher on GitHub](https://gist.github.com/GuilhermeMedeiros/eb9f0f8b4161cdb87d5fac822447ab6c)
 
 
 
