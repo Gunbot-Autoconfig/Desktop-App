@@ -76,7 +76,7 @@ Gunbot Autoconfig provides a web interface to setup your gunbot config file and 
 ### **PM2 Launcher to automatically start each pair in a new Gunbot instance**
 
 ![launcher gif](https://user-images.githubusercontent.com/2372008/31355649-7cec3684-ad3b-11e7-8784-95d85ac39e19.gif)
-*actual launcher speed*
+*actual gunbot speed with the launcher*
 
 PM2 Launcher script for PM2 to automatically launch Gunbot instances for each pair in your config. For Linux only.
 
