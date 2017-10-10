@@ -52,13 +52,13 @@ Gunbot Autoconfig provides a web interface to setup your gunbot config file and 
 ### **Dashboard for starting setups and monitoring logs**
 
 ![dashboard image](https://user-images.githubusercontent.com/2372008/31355630-6ac8b20c-ad3b-11e7-8038-160b75e47349.png)
-![logs image](https://user-images.githubusercontent.com/2372008/31355618-5b3692e6-ad3b-11e7-8450-a03a9016f7b4.png)
-![orders image](https://user-images.githubusercontent.com/2372008/31402813-6c756c5a-adf7-11e7-8774-2412c703fcf3.jpg)
-
 > Config preview
 
+
+![logs image](https://user-images.githubusercontent.com/2372008/31355618-5b3692e6-ad3b-11e7-8450-a03a9016f7b4.png)
 > Logviewer for config changes
 
+![orders image](https://user-images.githubusercontent.com/2372008/31402813-6c756c5a-adf7-11e7-8774-2412c703fcf3.jpg)
 >  Order overview
 
 
