@@ -10,12 +10,12 @@
 
 > **Optional PM2 launcher for fast single pair Gunbot instances**
 
-**[Join the Telegram group to request your invite](https://link.com)**
+**[Join the Telegram group to request your invite](https://t.me/joinchat/Fci7JUOw9Z7i0eUpUrAZmQ)**
 
 
 
 ## **How it works**
-Gunbot Autoconfig provides a web interface to setup your gunbot config file and automatically select pairs filtered by Tradingview ratings, volume and volatility. This config file is synced with your Gunbot machine with a multiplatform updater tool. 
+Gunbot Autoconfig provides a web interface to setup your gunbot config file and automatically select pairs filtered by Tradingview ratings, volume and volatility. This config file is synced with your Gunbot machine with a multi platform updater tool. 
 
 
 
@@ -53,6 +53,7 @@ Gunbot Autoconfig provides a web interface to setup your gunbot config file and 
 
 ![dashboard image](https://user-images.githubusercontent.com/2372008/31355630-6ac8b20c-ad3b-11e7-8038-160b75e47349.png)
 ![logs image](https://user-images.githubusercontent.com/2372008/31355618-5b3692e6-ad3b-11e7-8450-a03a9016f7b4.png)
+![orders image](https://user-images.githubusercontent.com/2372008/31402813-6c756c5a-adf7-11e7-8774-2412c703fcf3.jpg)
 
 > Config preview
 
@@ -87,9 +88,9 @@ PM2 Launcher script for PM2 to automatically launch Gunbot instances for each pa
 
 
 ## **Getting started**
-1. [Join the Telegram group](https://link.com) and request an invite
-1. [Create your free BETA account](https://gunbot-configurator.herokuapp.com/)
-1. Enter read only API key to retrieve Bittrex data
+1. [Join the Telegram group](https://t.me/joinchat/Fci7JUOw9Z7i0eUpUrAZmQ) and request an invite
+1. [Create your free BETA account](https://app.gunbot-autoconfig.com)
+1. Enter read only API key to retrieve Bittrex data (and improve pair selection)
 1. Create a setup for pair filtering and your Gunbot settings
 1. Preview your setup and start it
 1. Install the updater, enter login data and trading API key
@@ -102,7 +103,7 @@ PM2 Launcher script for PM2 to automatically launch Gunbot instances for each pa
 ## **Downloads & instructions**
 Installation instructions for the updater and launcher are provided at GitHub. 
 
-Dashboard URL: [https://gunbot-configurator.herokuapp.com](https://gunbot-configurator.herokuapp.com)
+Dashboard: [https://app.gunbot-autoconfig.com](https://app.gunbot-autoconfig.com)
 
 
 
@@ -118,4 +119,13 @@ Dashboard URL: [https://gunbot-configurator.herokuapp.com](https://gunbot-config
 
 
 ## **FAQ**
-- Todo
+
+### What does Gunbot Autoconfig consider a bag?
+All pairs that you have balance on and are no longer between the pairs in your config, are considered bags. A pair must have met the filter criteria you've set to trade on at least once to be consided a bag.
+
+### I'm just starting with Gunbot Autoconfig, how can I let it handle my old bags?
+To include your old bags in the config file that Gunbot Autoconfig creates, you need to make sure that these pairs have been in your setup once. To do so, you could create a setup with really loose settings for mimimum buy rating, volatility and volume - this way all pairs will be considered for trading (don't run Gunbot at this time). Start the setup in the dashboard and keep it running for a short while. Afterwards, update the setup so that it reflects the actual settings for pairs you want to really trade on. Your bags should be in there now.
+
+### Is this tool secure to use?
+As long as you're fine with the concept to use Gunbot with a dynamically generated config file based on your preferences, yes it is. The online part of the toolset works with just a read only API key for Bittrex: it cannot do actual harm. Your trading API key is stored on your local computer only.
+
