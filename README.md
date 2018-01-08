@@ -10,7 +10,7 @@
 
 > **Optional PM2 launcher for fast single pair Gunbot instances**
 
-**[Join the Telegram group to request your invite](https://t.me/joinchat/Fci7JUOw9Z7i0eUpUrAZmQ)**
+**[We have joined the official Gunbot team, you can find us at awesome-gunbot.com](https://www.awesome-gunbot.com/)**
 
 
 
