@@ -13,6 +13,7 @@
 
 
 **[AutoConfig is now fully integrated into Gunbot v15](https://www.gunbot.com/)**
+
 **[The info on this page is about the legacy version, click here for updated docs](https://wiki.gunthy.org/how-to-work-with-gunbot/autoconfig)**
 
 
