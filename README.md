@@ -10,7 +10,10 @@
 
 > **Optional PM2 launcher for fast single pair Gunbot instances**
 
-**[We have joined the official Gunbot team, you can find us at awesome-gunbot.com](https://www.awesome-gunbot.com/)**
+
+
+**[AutoConfig is now fully integrated into Gunbot v15](https://www.gunbot.com/)**
+**[The info on this page is about the legacy version, click here for updated docs](https://wiki.gunthy.org/how-to-work-with-gunbot/autoconfig)**
 
 
 
